@@ -40,8 +40,27 @@ import { registerIlmKeDunyaTools } from "./ilm-ke-dunya/index.ts";
 
 export default function buildGateway(ctx: ServiceContext, version: string): McpServer {
   const server = new McpServer(
-    // The MCP server name agents see. Change it to your record's name.
-    { name: "ksor", version },
+    // The MCP server identity clients read when they initialize the connection.
+    // `icons` is the field Claude connector clients look for when deciding what
+    // brand to show in the connection list; without it they fall back to a
+    // generic icon even when the site itself is branded correctly.
+    {
+      name: "ksor",
+      version,
+      description: "Ilm Ke Dunya knowledge and API documentation for humans and AI agents.",
+      icons: [
+        {
+          src: "https://ilm-ke-dunya-ksor.vercel.app/logo.png",
+          mimeType: "image/png",
+          sizes: ["512x512"],
+        },
+        {
+          src: "https://ilm-ke-dunya-ksor.vercel.app/favicon.ico",
+          mimeType: "image/x-icon",
+          sizes: ["32x32", "64x64"],
+        },
+      ],
+    },
     // instance.md's body is this record's system prompt, preserved beneath the
     // framework floor. Leave this alone unless you mean to replace the prompt.
     { instructions: composeInstructions(ctx.instance.instructions) },
