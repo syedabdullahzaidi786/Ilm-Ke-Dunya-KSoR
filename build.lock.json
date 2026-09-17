@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "build_id": "sha256:f5d9e6238701f1606f74acef4ef852a6be3c27aa1fc615d395bf6aaf605738ab",
+  "build_id": "sha256:9de4ba619b787a2ba61e83ebdd399a5f0ee80d6085427250e3e2c6c61b721b88",
   "ksor_version": "0.0.60",
   "okf": {
     "version": "0.2",
@@ -8,10 +8,10 @@
     "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
   },
   "source_commit": "e880580eb1151f00ecc77cdb32c1e441d193c43c",
-  "dirty": false,
-  "as_of": "2026-09-17T16:52:57.391Z",
+  "dirty": true,
+  "as_of": "2026-09-17T17:52:01.128Z",
   "drafts": "hidden",
-  "instance_sha256": "5712cda3efc2716c781bad94df5cecb4426c88d26988ee8b59fd95197f2ccc65",
+  "instance_sha256": "550ff681b5ffa62adb76b6ae23dc30c85cd83f518fef0e53094733097bead17e",
   "policy_sha256": "384f6c196502e5ac26ab53e88905b1da39e99c488ab32c8ebe9f05a532f06707",
   "people_sha256": "01755a5e3cf0b00cd93a6844a765547fff8c5e22e378098193e13044a9bb4721",
   "ledger_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -26,8 +26,41 @@
   },
   "documents": [
     {
-      "path": "governance-ladder.md",
-      "sha256": "c0dc26f31fcbb19128db8bd3e8aca068439814a784e889bf5c35827fc43479a0",
+      "path": "coverage.md",
+      "sha256": "7e7509c1bdd58d7a476c4d0471ab5bc963a45ece9bee9dcd0e82942a8e21fb6d",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "ide-extensions.md",
+      "sha256": "21997d2fda1e7ac95f02356cd80c42fd7998d72e0b19b9460e80cdfe8265205c",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "mobile-app.md",
+      "sha256": "5ba29d0344c6269421977547fc4537ad1bf0c8fe5a246612dbda998b146e4297",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "openapi.md",
+      "sha256": "7a3c0509dae2dbc0ce6dd22bffef4c9f4b580487d7968382254555ec7f9ec936",
       "status": "stable",
       "audience": [
         "public"
@@ -48,41 +81,8 @@
       ]
     },
     {
-      "path": "surfaces/for-agents.md",
-      "sha256": "1ab26915897ba587518a50fa811b54898acbd09967f76f9ccbf684e58256a49b",
-      "status": "stable",
-      "audience": [
-        "public"
-      ],
-      "admitted": [
-        "public"
-      ]
-    },
-    {
-      "path": "surfaces/for-people.md",
-      "sha256": "3cb26786225dedca5d871f9bb3dbc5a0913c7fec870c34aeae52862b31fc56ae",
-      "status": "stable",
-      "audience": [
-        "public"
-      ],
-      "admitted": [
-        "public"
-      ]
-    },
-    {
-      "path": "surfaces/overview.md",
-      "sha256": "d35e5c61df23ffc83d2542b6501fde1b989c3e23b846273d7f969af2e6edd4c2",
-      "status": "stable",
-      "audience": [
-        "public"
-      ],
-      "admitted": [
-        "public"
-      ]
-    },
-    {
-      "path": "what-is-a-ksor.md",
-      "sha256": "2b2139295ff479719bcd02c7ba5eda6ea39d408c34ee4cb7bd6528ff7f1b90e4",
+      "path": "what-is-ilm-ke-dunya.md",
+      "sha256": "2e1dd324f8db1b687d8685d1093870604e2d3418f96e94dffe9722111a36d3e6",
       "status": "stable",
       "audience": [
         "public"
@@ -92,28 +92,19 @@
       ]
     }
   ],
-  "companions": [
-    {
-      "path": "what-is-a-ksor.summary.md",
-      "sha256": "6e28d107e4903f124ff5eb7b82ca8edbf63c4ba6a20ccd2efdf07a72a2481df5"
-    }
-  ],
+  "companions": [],
   "assets": [],
   "indexes": [
     {
       "path": "index.md",
-      "sha256": "d2fe50f354112d21503165d606e33e2202b53d7fb3f9f1df6e14fdf8f0c46295"
-    },
-    {
-      "path": "surfaces/index.md",
-      "sha256": "e82913fbd744929824ec494cd87d50d1451856df0d7d321d51df2b7be773314c"
+      "sha256": "aaa7d76bd39997d78a5ab61a6c1cc6742ccc5e1e17155ae6b099bcb4426ef09d"
     }
   ],
   "bundles": [
     {
       "viewer": "public",
-      "sha256": "ec5843ae66d668c976538e7026ffe7d7202e24ab4be7d64b7008e0e4c2eceaba",
-      "files": 9
+      "sha256": "7fd0491c5bde30f1e5d48362c2454a12a1fe1720d5fbaee78678035589d200e9",
+      "files": 7
     }
   ]
 }

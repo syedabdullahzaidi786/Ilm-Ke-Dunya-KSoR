@@ -2,9 +2,11 @@
 okf_version: "0.2"
 ---
 
-# KSoR
+# Ilm Ke Dunya
 
-* [What a Knowledge System of Record is](what-is-a-ksor.md) - The authoritative, governed knowledge layer humans, agents and software operate from.
-* [The governance ladder](governance-ladder.md) - Level 0 works immediately; a project climbs only as far as its domain needs.
-* [Surfaces](surfaces/)
+* [What is Ilm Ke Dunya?](what-is-ilm-ke-dunya.md) - A trusted Islamic learning, reference, and API platform for people, developers, and AI systems.
+* [Ilm Ke Dunya OpenAPI](openapi.md) - Public API access for Islamic knowledge, reference data, and integration workflows.
+* [IDEs Extension](ide-extensions.md) - Coming soon to developer workflows and coding environments.
+* [Mobile App](mobile-app.md) - A mobile-first experience for daily learning, reference, and access to trusted Islamic content.
+* [Coverage and Scope](coverage.md) - The main areas of Islamic knowledge currently covered by Ilm Ke Dunya.
 * [Refund policy](refunds.md) - Customers may return unused items within 30 days with a receipt, with refunds issued within 5 working days.

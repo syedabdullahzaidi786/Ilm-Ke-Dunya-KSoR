@@ -1,8 +1,8 @@
 ---
 format: 2
 name: handbook
-title: KSoR
-description: What a Knowledge System of Record is, how a project climbs the governance ladder, and which surfaces publish the same governed knowledge.
+title: Ilm Ke Dunya
+description: A governed knowledge base for learning, practical guidance, and trusted reference for people and AI.
 toolchain:
   requires: ">=0.0.60"
   scaffolded: "0.0.60"
