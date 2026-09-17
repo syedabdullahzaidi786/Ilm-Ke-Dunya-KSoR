@@ -19,9 +19,19 @@ export const metadata: Metadata = {
   },
   description: "The Knowledge System of Record for humans and AI agents.",
   icons: {
-    icon: "/logo.png",
-    shortcut: "/logo.png",
+    icon: [
+      { url: "/favicon.ico", rel: "icon", type: "image/x-icon" },
+      { url: "/logo.png", rel: "icon", type: "image/png" },
+    ],
+    shortcut: "/favicon.ico",
     apple: "/logo.png",
+  },
+  openGraph: {
+    images: [{ url: "/logo.png", width: 512, height: 512, alt: appTitle }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/logo.png"],
   },
   // A build that shows drafts (`KSOR_DRAFTS=show`) is a preview, and a static
   // site's pages are open-web artefacts: it says so to every crawler rather
