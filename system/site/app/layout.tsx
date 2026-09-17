@@ -13,6 +13,7 @@ import KsorSearchDialog from "@/components/search-dialog";
 // if the project wants a specific face.
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://ilm-ke-dunya-ksor.vercel.app"),
   title: {
     default: appTitle,
     template: `%s | ${appTitle}`,
