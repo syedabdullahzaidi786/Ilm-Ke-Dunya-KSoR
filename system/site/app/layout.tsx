@@ -18,6 +18,11 @@ export const metadata: Metadata = {
     template: `%s | ${appTitle}`,
   },
   description: "The Knowledge System of Record for humans and AI agents.",
+  icons: {
+    icon: "/logo.png",
+    shortcut: "/logo.png",
+    apple: "/logo.png",
+  },
   // A build that shows drafts (`KSOR_DRAFTS=show`) is a preview, and a static
   // site's pages are open-web artefacts: it says so to every crawler rather
   // than letting a draft be indexed under the record's name (build spec §3).

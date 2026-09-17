@@ -1,6 +1,6 @@
 import type { ReactElement } from "react";
 
-import mark from "@/app/icon.png";
+import mark from "@/app/logo.png";
 import { FooterMark } from "@/components/footer-mark";
 import { HomeCover } from "@/components/home-cover";
 import { appName, appPurpose, appTitle } from "@/lib/shared";
