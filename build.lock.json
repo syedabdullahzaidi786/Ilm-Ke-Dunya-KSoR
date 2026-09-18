@@ -1,15 +1,15 @@
 {
   "format": 1,
-  "build_id": "sha256:9de4ba619b787a2ba61e83ebdd399a5f0ee80d6085427250e3e2c6c61b721b88",
+  "build_id": "sha256:59eae9904339ccec57c19f3e85b5eb2c9a250b485b259aa8ec13f56586351544",
   "ksor_version": "0.0.60",
   "okf": {
     "version": "0.2",
     "commit": "ad30107c31c06aec8a7d5636e0d1058118604e6f",
     "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
   },
-  "source_commit": "a646aeeb64022e1e759a41bb1217b62bb0eff657",
+  "source_commit": "c125818bb6d5e0d7af11710dbc2167490a22c581",
   "dirty": true,
-  "as_of": "2026-09-17T18:11:52.460Z",
+  "as_of": "2026-09-18T15:59:25.927Z",
   "drafts": "hidden",
   "instance_sha256": "550ff681b5ffa62adb76b6ae23dc30c85cd83f518fef0e53094733097bead17e",
   "policy_sha256": "384f6c196502e5ac26ab53e88905b1da39e99c488ab32c8ebe9f05a532f06707",
@@ -28,6 +28,17 @@
     {
       "path": "coverage.md",
       "sha256": "7e7509c1bdd58d7a476c4d0471ab5bc963a45ece9bee9dcd0e82942a8e21fb6d",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "ecosystem/ilm-ke-dunya-mcp.md",
+      "sha256": "0c7a90de82ea9f034384f8dc56da90e4cf525108d5519d6a35f73d2232b08ce5",
       "status": "stable",
       "audience": [
         "public"
@@ -96,15 +107,19 @@
   "assets": [],
   "indexes": [
     {
+      "path": "ecosystem/index.md",
+      "sha256": "12dc458a24f41ee9e0e45f7c6843da75c50ee271162feaf0f730fccda9865888"
+    },
+    {
       "path": "index.md",
-      "sha256": "aaa7d76bd39997d78a5ab61a6c1cc6742ccc5e1e17155ae6b099bcb4426ef09d"
+      "sha256": "140d46b0001d24fac62b7468d67bd8876a584664f45b1bc70e7485426aa9b7d1"
     }
   ],
   "bundles": [
     {
       "viewer": "public",
-      "sha256": "7fd0491c5bde30f1e5d48362c2454a12a1fe1720d5fbaee78678035589d200e9",
-      "files": 7
+      "sha256": "916807e0ca4c286b100f7ee83f99e535d80ff1e66f1010ade27e5cb8406de8ca",
+      "files": 9
     }
   ]
 }
