@@ -4,14 +4,14 @@ title: Ilm Ke Dunya MCP
 description: Connect Claude and other MCP clients to the live public Ilm Ke Dunya server.
 status: stable
 order: 2
-generated: { by: "human:you", at: 2026-09-18T18:30:00Z }
+generated: { by: "human:you", at: 2026-09-19T15:45:00Z }
 ksor:
   audience: [public]
   owner: "the record owner"
-  approval: { by: "human:you", at: 2026-09-18T18:30:05Z }
+  approval: { by: "human:you", at: 2026-09-19T15:46:05Z }
 ---
 
-![Ilm ke Dunya Logo](../../system/site/public/logo.png)
+![Ilm ke Dunya Logo](../logo.png)
 
 # Ilm Ke Dunya MCP
 
@@ -38,7 +38,7 @@ Open Claude, then go to Customize → Connectors.
 
 Select Add custom connector.
 
-![Claude Add custom connector dialog showing Ilm Ke Dunya MCP and its URL](../../system/site/public/add_custom_connector.png)
+![Claude Add custom connector dialog showing Ilm Ke Dunya MCP and its URL](../add_custom_connector.png)
 
 Enter these values exactly:
 
@@ -57,7 +57,7 @@ Claude will show a warning explaining that anyone with the server URL can use th
 
 Then click `Add`.
 
-![Claude Authentication screen showing No sign-in detected for Ilm Ke Dunya MCP](../../system/site/public/add_custom_connector_authantication.png)
+![Claude Authentication screen showing No sign-in detected for Ilm Ke Dunya MCP](../add_custom_connector_authantication.png)
 
 > [!IMPORTANT]
 > Do not enter an OAuth client ID, OAuth client secret, username, password, or API key. This endpoint does not use OAuth.

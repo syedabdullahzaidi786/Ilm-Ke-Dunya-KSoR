@@ -1,15 +1,15 @@
 {
   "format": 1,
-  "build_id": "sha256:59eae9904339ccec57c19f3e85b5eb2c9a250b485b259aa8ec13f56586351544",
+  "build_id": "sha256:26d9027e5d7ec1c134b2138b80979457a28de271478a727ac706d86c658c11a7",
   "ksor_version": "0.0.60",
   "okf": {
     "version": "0.2",
     "commit": "ad30107c31c06aec8a7d5636e0d1058118604e6f",
     "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
   },
-  "source_commit": "c125818bb6d5e0d7af11710dbc2167490a22c581",
+  "source_commit": "885b65befda44137508f20303ba0833bd8fe4a8a",
   "dirty": true,
-  "as_of": "2026-09-18T15:59:25.927Z",
+  "as_of": "2026-09-19T10:49:04.750Z",
   "drafts": "hidden",
   "instance_sha256": "550ff681b5ffa62adb76b6ae23dc30c85cd83f518fef0e53094733097bead17e",
   "policy_sha256": "384f6c196502e5ac26ab53e88905b1da39e99c488ab32c8ebe9f05a532f06707",
@@ -38,7 +38,7 @@
     },
     {
       "path": "ecosystem/ilm-ke-dunya-mcp.md",
-      "sha256": "0c7a90de82ea9f034384f8dc56da90e4cf525108d5519d6a35f73d2232b08ce5",
+      "sha256": "2dcb2e32d4aeb5f3709a935b05902ba8e69e00ef0db8aa89fbf1734b56921a66",
       "status": "stable",
       "audience": [
         "public"
@@ -104,7 +104,20 @@
     }
   ],
   "companions": [],
-  "assets": [],
+  "assets": [
+    {
+      "path": "add_custom_connector.png",
+      "sha256": "f981469b2519da10fc7dae5a695b74fd401e0b321ba2fa9499938f96a4818991"
+    },
+    {
+      "path": "add_custom_connector_authantication.png",
+      "sha256": "a3639e40284156a829b1d245e340911857f3f46a8c4f1f2fe6d1602a7a40c128"
+    },
+    {
+      "path": "logo.png",
+      "sha256": "c45a6df01ec0ae95a888ce6b7240e9ac364f52c8960324f4ba42a2ed6e741e31"
+    }
+  ],
   "indexes": [
     {
       "path": "ecosystem/index.md",
@@ -118,8 +131,8 @@
   "bundles": [
     {
       "viewer": "public",
-      "sha256": "916807e0ca4c286b100f7ee83f99e535d80ff1e66f1010ade27e5cb8406de8ca",
-      "files": 9
+      "sha256": "7962363cc7ec9aadf114256fa42b824f363facb2dc156f2aa91c78a0d2e1b09e",
+      "files": 12
     }
   ]
 }
