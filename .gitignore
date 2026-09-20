@@ -35,3 +35,8 @@ system/site/public/sims/
 
 .DS_Store
 .vercel
+
+# Hadith raw data cache — downloaded by scripts/import_bukhari.py
+# Do not commit the large JSON files; re-run the script to regenerate.
+# The generated knowledge/ documents ARE committed (they are the record).
+data/hadith/raw/*.json
