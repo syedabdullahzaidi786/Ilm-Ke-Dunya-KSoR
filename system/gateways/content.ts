@@ -50,14 +50,11 @@ export default function buildGateway(ctx: ServiceContext, version: string): McpS
       description: "Ilm Ke Dunya knowledge and API documentation for humans and AI agents.",
       icons: [
         {
-          src: "https://ilm-ke-dunya-ksor.vercel.app/logo.png",
+          // system/site/app/icon.png — 1208x1208 RGBA, copied to out/icon.png by the
+          // Next.js build and served at the site root by the Vercel "site" service.
+          src: "https://ilm-ke-dunya-ksor.vercel.app/icon.png",
           mimeType: "image/png",
-          sizes: ["512x512"],
-        },
-        {
-          src: "https://ilm-ke-dunya-ksor.vercel.app/favicon.ico",
-          mimeType: "image/x-icon",
-          sizes: ["32x32", "64x64"],
+          sizes: ["1208x1208"],
         },
       ],
     },
