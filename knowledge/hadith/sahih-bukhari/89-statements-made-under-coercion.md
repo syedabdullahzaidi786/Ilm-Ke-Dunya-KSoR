@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 89: (Statements made under) Coercion"
 description: "Hadiths from Sahih al-Bukhari, Book 89: (Statements made under) Coercion. 13 hadiths."
 status: stable
-order: 89
+order: 189
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

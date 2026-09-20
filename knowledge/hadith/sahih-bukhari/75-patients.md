@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 75: Patients"
 description: "Hadiths from Sahih al-Bukhari, Book 75: Patients. 38 hadiths."
 status: stable
-order: 75
+order: 175
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

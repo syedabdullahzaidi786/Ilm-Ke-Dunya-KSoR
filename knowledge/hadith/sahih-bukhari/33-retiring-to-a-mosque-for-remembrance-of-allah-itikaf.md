@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 33: Retiring to a Mosque for Remembrance of Allah (I'tikaf)"
 description: "Hadiths from Sahih al-Bukhari, Book 33: Retiring to a Mosque for Remembrance of Allah (I'tikaf). 22 hadiths."
 status: stable
-order: 33
+order: 133
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

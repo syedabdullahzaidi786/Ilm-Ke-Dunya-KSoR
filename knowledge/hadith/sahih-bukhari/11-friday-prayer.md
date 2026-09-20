@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 11: Friday Prayer"
 description: "Hadiths from Sahih al-Bukhari, Book 11: Friday Prayer. 66 hadiths."
 status: stable
-order: 11
+order: 111
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

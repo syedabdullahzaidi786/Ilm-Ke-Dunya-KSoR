@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 13: The Two Festivals (Eids)"
 description: "Hadiths from Sahih al-Bukhari, Book 13: The Two Festivals (Eids). 42 hadiths."
 status: stable
-order: 13
+order: 113
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

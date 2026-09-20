@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 65: Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))"
 description: "Hadiths from Sahih al-Bukhari, Book 65: Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh)). 506 hadiths."
 status: stable
-order: 65
+order: 165
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

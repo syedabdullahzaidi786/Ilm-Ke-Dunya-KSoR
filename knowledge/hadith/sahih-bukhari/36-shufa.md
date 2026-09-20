@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 36: Shuf'a"
 description: "Hadiths from Sahih al-Bukhari, Book 36: Shuf'a. 3 hadiths."
 status: stable
-order: 36
+order: 136
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

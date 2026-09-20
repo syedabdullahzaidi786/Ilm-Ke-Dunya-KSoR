@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 50: Makaatib"
 description: "Hadiths from Sahih al-Bukhari, Book 50: Makaatib. 6 hadiths."
 status: stable
-order: 50
+order: 150
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 69: Supporting the Family"
 description: "Hadiths from Sahih al-Bukhari, Book 69: Supporting the Family. 22 hadiths."
 status: stable
-order: 69
+order: 169
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

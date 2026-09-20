@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 35: Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)"
 description: "Hadiths from Sahih al-Bukhari, Book 35: Sales in which a Price is paid for Goods to be Delivered Later (As-Salam). 20 hadiths."
 status: stable
-order: 35
+order: 135
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

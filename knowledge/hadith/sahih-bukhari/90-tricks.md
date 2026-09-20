@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 90: Tricks"
 description: "Hadiths from Sahih al-Bukhari, Book 90: Tricks. 29 hadiths."
 status: stable
-order: 90
+order: 190
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

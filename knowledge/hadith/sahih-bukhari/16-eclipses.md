@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 16: Eclipses"
 description: "Hadiths from Sahih al-Bukhari, Book 16: Eclipses. 27 hadiths."
 status: stable
-order: 16
+order: 116
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

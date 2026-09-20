@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 67: Wedlock, Marriage (Nikaah)"
 description: "Hadiths from Sahih al-Bukhari, Book 67: Wedlock, Marriage (Nikaah). 188 hadiths."
 status: stable
-order: 67
+order: 167
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

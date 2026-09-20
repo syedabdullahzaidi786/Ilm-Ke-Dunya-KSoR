@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 8: Prayers (Salat)"
 description: "Hadiths from Sahih al-Bukhari, Book 8: Prayers (Salat). 173 hadiths."
 status: stable
-order: 8
+order: 108
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

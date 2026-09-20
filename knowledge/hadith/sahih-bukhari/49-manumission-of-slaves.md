@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 49: Manumission of Slaves"
 description: "Hadiths from Sahih al-Bukhari, Book 49: Manumission of Slaves. 43 hadiths."
 status: stable
-order: 49
+order: 149
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

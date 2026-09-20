@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 66: Virtues of the Qur'an"
 description: "Hadiths from Sahih al-Bukhari, Book 66: Virtues of the Qur'an. 87 hadiths."
 status: stable
-order: 66
+order: 166
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

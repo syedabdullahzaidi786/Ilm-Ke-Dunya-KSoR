@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 9: Times of the Prayers"
 description: "Hadiths from Sahih al-Bukhari, Book 9: Times of the Prayers. 81 hadiths."
 status: stable
-order: 9
+order: 109
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

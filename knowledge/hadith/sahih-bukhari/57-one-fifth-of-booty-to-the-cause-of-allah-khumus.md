@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 57: One-fifth of Booty to the Cause of Allah (Khumus)"
 description: "Hadiths from Sahih al-Bukhari, Book 57: One-fifth of Booty to the Cause of Allah (Khumus). 65 hadiths."
 status: stable
-order: 57
+order: 157
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

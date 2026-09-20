@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 21: Actions while Praying"
 description: "Hadiths from Sahih al-Bukhari, Book 21: Actions while Praying. 27 hadiths."
 status: stable
-order: 21
+order: 121
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

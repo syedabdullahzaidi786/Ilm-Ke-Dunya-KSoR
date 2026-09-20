@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 59: Beginning of Creation"
 description: "Hadiths from Sahih al-Bukhari, Book 59: Beginning of Creation. 136 hadiths."
 status: stable
-order: 59
+order: 159
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

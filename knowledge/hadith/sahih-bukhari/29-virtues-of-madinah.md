@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 29: Virtues of Madinah"
 description: "Hadiths from Sahih al-Bukhari, Book 29: Virtues of Madinah. 24 hadiths."
 status: stable
-order: 29
+order: 129
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

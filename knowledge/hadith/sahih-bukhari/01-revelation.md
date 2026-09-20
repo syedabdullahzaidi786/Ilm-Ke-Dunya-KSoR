@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 1: Revelation"
 description: "Hadiths from Sahih al-Bukhari, Book 1: Revelation. 7 hadiths."
 status: stable
-order: 1
+order: 101
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

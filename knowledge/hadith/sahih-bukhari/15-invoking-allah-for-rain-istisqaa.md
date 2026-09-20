@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 15: Invoking Allah for Rain (Istisqaa)"
 description: "Hadiths from Sahih al-Bukhari, Book 15: Invoking Allah for Rain (Istisqaa). 35 hadiths."
 status: stable
-order: 15
+order: 115
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

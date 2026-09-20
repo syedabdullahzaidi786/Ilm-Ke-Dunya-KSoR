@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 40: Representation, Authorization, Business by Proxy"
 description: "Hadiths from Sahih al-Bukhari, Book 40: Representation, Authorization, Business by Proxy. 21 hadiths."
 status: stable
-order: 40
+order: 140
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 61: Virtues and Merits of the Prophet (pbuh) and his Companions"
 description: "Hadiths from Sahih al-Bukhari, Book 61: Virtues and Merits of the Prophet (pbuh) and his Companions. 162 hadiths."
 status: stable
-order: 61
+order: 161
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

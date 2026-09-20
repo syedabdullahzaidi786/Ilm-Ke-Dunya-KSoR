@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 95: Accepting Information Given by a Truthful Person"
 description: "Hadiths from Sahih al-Bukhari, Book 95: Accepting Information Given by a Truthful Person. 22 hadiths."
 status: stable
-order: 95
+order: 195
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

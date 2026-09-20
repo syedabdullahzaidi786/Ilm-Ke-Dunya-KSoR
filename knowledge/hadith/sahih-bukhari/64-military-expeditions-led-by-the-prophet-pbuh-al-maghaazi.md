@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 64: Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
 description: "Hadiths from Sahih al-Bukhari, Book 64: Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi). 526 hadiths."
 status: stable
-order: 64
+order: 164
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

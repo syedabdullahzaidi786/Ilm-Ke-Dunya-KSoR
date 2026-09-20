@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 97: Oneness, Uniqueness of Allah (Tawheed)"
 description: "Hadiths from Sahih al-Bukhari, Book 97: Oneness, Uniqueness of Allah (Tawheed). 193 hadiths."
 status: stable
-order: 97
+order: 197
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

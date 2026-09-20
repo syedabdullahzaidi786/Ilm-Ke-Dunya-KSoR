@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 14: Witr Prayer"
 description: "Hadiths from Sahih al-Bukhari, Book 14: Witr Prayer. 15 hadiths."
 status: stable
-order: 14
+order: 114
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 6: Menstrual Periods"
 description: "Hadiths from Sahih al-Bukhari, Book 6: Menstrual Periods. 40 hadiths."
 status: stable
-order: 6
+order: 106
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

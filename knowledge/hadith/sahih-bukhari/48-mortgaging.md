@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 48: Mortgaging"
 description: "Hadiths from Sahih al-Bukhari, Book 48: Mortgaging. 8 hadiths."
 status: stable
-order: 48
+order: 148
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

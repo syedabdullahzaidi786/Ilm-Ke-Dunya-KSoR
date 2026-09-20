@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 18: Shortening the Prayers (At-Taqseer)"
 description: "Hadiths from Sahih al-Bukhari, Book 18: Shortening the Prayers (At-Taqseer). 40 hadiths."
 status: stable
-order: 18
+order: 118
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

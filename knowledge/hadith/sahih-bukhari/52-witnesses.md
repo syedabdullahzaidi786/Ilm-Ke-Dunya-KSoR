@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 52: Witnesses"
 description: "Hadiths from Sahih al-Bukhari, Book 52: Witnesses. 53 hadiths."
 status: stable
-order: 52
+order: 152
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

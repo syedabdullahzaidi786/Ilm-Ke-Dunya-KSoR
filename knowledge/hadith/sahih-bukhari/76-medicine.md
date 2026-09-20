@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 76: Medicine"
 description: "Hadiths from Sahih al-Bukhari, Book 76: Medicine. 105 hadiths."
 status: stable
-order: 76
+order: 176
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

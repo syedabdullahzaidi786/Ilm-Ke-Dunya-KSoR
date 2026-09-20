@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Overview"
 description: "Complete text of Sahih al-Bukhari — Arabic original with English translation, structured as a KSoR knowledge base. 97 books, 7,563 hadiths."
 status: stable
-order: 1
+order: 100
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 38: Transferance of a Debt from One Person to Another (Al-Hawaala)"
 description: "Hadiths from Sahih al-Bukhari, Book 38: Transferance of a Debt from One Person to Another (Al-Hawaala). 3 hadiths."
 status: stable
-order: 38
+order: 138
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

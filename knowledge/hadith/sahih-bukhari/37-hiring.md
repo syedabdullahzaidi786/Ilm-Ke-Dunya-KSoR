@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 37: Hiring"
 description: "Hadiths from Sahih al-Bukhari, Book 37: Hiring. 27 hadiths."
 status: stable
-order: 37
+order: 137
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

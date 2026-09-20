@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 84: Expiation for Unfulfilled Oaths"
 description: "Hadiths from Sahih al-Bukhari, Book 84: Expiation for Unfulfilled Oaths. 15 hadiths."
 status: stable
-order: 84
+order: 184
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

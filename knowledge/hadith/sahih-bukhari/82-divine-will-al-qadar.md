@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 82: Divine Will (Al-Qadar)"
 description: "Hadiths from Sahih al-Bukhari, Book 82: Divine Will (Al-Qadar). 27 hadiths."
 status: stable
-order: 82
+order: 182
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

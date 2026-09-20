@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 70: Food, Meals"
 description: "Hadiths from Sahih al-Bukhari, Book 70: Food, Meals. 95 hadiths."
 status: stable
-order: 70
+order: 170
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

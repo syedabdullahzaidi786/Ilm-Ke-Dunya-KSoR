@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 23: Funerals (Al-Janaa'iz)"
 description: "Hadiths from Sahih al-Bukhari, Book 23: Funerals (Al-Janaa'iz). 160 hadiths."
 status: stable
-order: 23
+order: 123
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

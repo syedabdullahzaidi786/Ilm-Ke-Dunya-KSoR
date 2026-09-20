@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 55: Wills and Testaments (Wasaayaa)"
 description: "Hadiths from Sahih al-Bukhari, Book 55: Wills and Testaments (Wasaayaa). 44 hadiths."
 status: stable
-order: 55
+order: 155
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

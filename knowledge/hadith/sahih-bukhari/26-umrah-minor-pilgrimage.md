@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 26: `Umrah (Minor pilgrimage)"
 description: "Hadiths from Sahih al-Bukhari, Book 26: `Umrah (Minor pilgrimage). 33 hadiths."
 status: stable
-order: 26
+order: 126
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

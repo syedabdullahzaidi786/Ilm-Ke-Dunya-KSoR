@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 44: Khusoomaat"
 description: "Hadiths from Sahih al-Bukhari, Book 44: Khusoomaat. 16 hadiths."
 status: stable
-order: 44
+order: 144
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

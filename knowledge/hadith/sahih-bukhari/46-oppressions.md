@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 46: Oppressions"
 description: "Hadiths from Sahih al-Bukhari, Book 46: Oppressions. 43 hadiths."
 status: stable
-order: 46
+order: 146
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

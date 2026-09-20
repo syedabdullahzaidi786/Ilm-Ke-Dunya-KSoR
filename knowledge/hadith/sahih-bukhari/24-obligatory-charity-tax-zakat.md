@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 24: Obligatory Charity Tax (Zakat)"
 description: "Hadiths from Sahih al-Bukhari, Book 24: Obligatory Charity Tax (Zakat). 118 hadiths."
 status: stable
-order: 24
+order: 124
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

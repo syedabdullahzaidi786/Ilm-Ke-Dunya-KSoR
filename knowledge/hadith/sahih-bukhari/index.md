@@ -1,7 +1,7 @@
 # Sahih bukhari
 
-* [Sahih al-Bukhari — Book 1: Revelation](01-revelation.md) - Hadiths from Sahih al-Bukhari, Book 1: Revelation. 7 hadiths.
 * [Sahih al-Bukhari — Overview](overview.md) - Complete text of Sahih al-Bukhari — Arabic original with English translation, structured as a KSoR knowledge base. 97 books, 7,563 hadiths.
+* [Sahih al-Bukhari — Book 1: Revelation](01-revelation.md) - Hadiths from Sahih al-Bukhari, Book 1: Revelation. 7 hadiths.
 * [Sahih al-Bukhari — Book 2: Belief](02-belief.md) - Hadiths from Sahih al-Bukhari, Book 2: Belief. 51 hadiths.
 * [Sahih al-Bukhari — Book 3: Knowledge](03-knowledge.md) - Hadiths from Sahih al-Bukhari, Book 3: Knowledge. 76 hadiths.
 * [Sahih al-Bukhari — Book 4: Ablutions (Wudu')](04-ablutions-wudu.md) - Hadiths from Sahih al-Bukhari, Book 4: Ablutions (Wudu'). 113 hadiths.

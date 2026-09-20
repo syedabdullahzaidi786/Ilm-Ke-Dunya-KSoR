@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 5: Bathing (Ghusl)"
 description: "Hadiths from Sahih al-Bukhari, Book 5: Bathing (Ghusl). 46 hadiths."
 status: stable
-order: 5
+order: 105
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

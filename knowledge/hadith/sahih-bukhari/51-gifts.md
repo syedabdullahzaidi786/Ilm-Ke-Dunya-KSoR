@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 51: Gifts"
 description: "Hadiths from Sahih al-Bukhari, Book 51: Gifts. 71 hadiths."
 status: stable
-order: 51
+order: 151
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

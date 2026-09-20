@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 77: Dress"
 description: "Hadiths from Sahih al-Bukhari, Book 77: Dress. 188 hadiths."
 status: stable
-order: 77
+order: 177
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

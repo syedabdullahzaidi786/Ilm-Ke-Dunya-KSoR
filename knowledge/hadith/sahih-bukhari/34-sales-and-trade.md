@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 34: Sales and Trade"
 description: "Hadiths from Sahih al-Bukhari, Book 34: Sales and Trade. 193 hadiths."
 status: stable
-order: 34
+order: 134
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

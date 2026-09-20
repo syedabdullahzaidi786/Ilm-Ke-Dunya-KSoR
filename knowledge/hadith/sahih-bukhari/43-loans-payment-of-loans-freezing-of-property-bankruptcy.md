@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 43: Loans, Payment of Loans, Freezing of Property, Bankruptcy"
 description: "Hadiths from Sahih al-Bukhari, Book 43: Loans, Payment of Loans, Freezing of Property, Bankruptcy. 25 hadiths."
 status: stable
-order: 43
+order: 143
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 32: Virtues of the Night of Qadr"
 description: "Hadiths from Sahih al-Bukhari, Book 32: Virtues of the Night of Qadr. 11 hadiths."
 status: stable
-order: 32
+order: 132
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

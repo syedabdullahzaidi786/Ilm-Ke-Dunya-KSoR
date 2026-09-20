@@ -1,15 +1,15 @@
 {
   "format": 1,
-  "build_id": "sha256:8c4e730b014b6696d35373ef8c6258b79daee3117965c1df62b1c7bb924ee982",
+  "build_id": "sha256:39cdda96736d18308dcfef91c0e968f1bcc0b6663f5501350e301fc3363750c1",
   "ksor_version": "0.0.60",
   "okf": {
     "version": "0.2",
     "commit": "ad30107c31c06aec8a7d5636e0d1058118604e6f",
     "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
   },
-  "source_commit": "6616de092621e547c02c8260b13d0fb7fa630b29",
+  "source_commit": "42da939efab45c03d8f2b3cd26b2e2d53d49b47d",
   "dirty": true,
-  "as_of": "2026-09-20T18:53:24.662Z",
+  "as_of": "2026-09-20T19:31:24.452Z",
   "drafts": "hidden",
   "instance_sha256": "550ff681b5ffa62adb76b6ae23dc30c85cd83f518fef0e53094733097bead17e",
   "policy_sha256": "384f6c196502e5ac26ab53e88905b1da39e99c488ab32c8ebe9f05a532f06707",
@@ -49,7 +49,7 @@
     },
     {
       "path": "hadith/overview.md",
-      "sha256": "cd6f0df3925d92a68fd3b118db33b33ae7b95422aa73fd3de629d4ba2020411c",
+      "sha256": "03063bda6272f76e68b707443fc34f44109a19c6dc690572e1b361ac0d2fa319",
       "status": "stable",
       "audience": [
         "public"
@@ -60,7 +60,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/01-revelation.md",
-      "sha256": "89a3e258d68feead2daccbf5984971b15285183284c26138a08733dc3b93dceb",
+      "sha256": "71e6676d99e97dff6dcda36db0c495dde103c13cb6a05b8f83990795e56d5713",
       "status": "stable",
       "audience": [
         "public"
@@ -71,7 +71,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/02-belief.md",
-      "sha256": "1a3b6f07aa184939167f4ffa360de431fedfaa10e8c6e5d4b75439213b7fdc83",
+      "sha256": "6ca6a3ee9010629871580002e17f4bc63b550de5891f693b83ad37a969accebf",
       "status": "stable",
       "audience": [
         "public"
@@ -82,7 +82,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/03-knowledge.md",
-      "sha256": "d340ade3c23de031febb01a938c486f9a544c7802d7d862ed4f4d7547530876d",
+      "sha256": "600cfb69af3defb4bcce5d5022797592a1a5fcb1084536817fb8e4bf1979bba0",
       "status": "stable",
       "audience": [
         "public"
@@ -93,7 +93,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/04-ablutions-wudu.md",
-      "sha256": "c5d04fe48ab8a45adf3eb7fb585d4adbed4338e46d9b0113fe0175c8924bf7b9",
+      "sha256": "cbedd899344612b1499cfeab55a101c0bc85b9ce8097e5fb7cb305781690cc48",
       "status": "stable",
       "audience": [
         "public"
@@ -104,7 +104,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/05-bathing-ghusl.md",
-      "sha256": "0c4ec22c28c669f84d0e4e9c59559431a167a957567d74dd6efeed59e7b00735",
+      "sha256": "add307d647f7deb47451a3d4c8ea808d74451991ea42446f8b30aa4ec1d47388",
       "status": "stable",
       "audience": [
         "public"
@@ -115,7 +115,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/06-menstrual-periods.md",
-      "sha256": "da27ba9b3cdfeb37f8d946d0278c812d158547f5b165cc2f9e459c88b4d66865",
+      "sha256": "b5618cfd95595a726fbf29e4b47892ded2bf3f8d18322032054923c8266e70d3",
       "status": "stable",
       "audience": [
         "public"
@@ -126,7 +126,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/07-rubbing-hands-and-feet-with-dust-tayammum.md",
-      "sha256": "bc405f9ae7dad5d78fed1ab2825198b73a71b32a5b275e39c9f8975d994d8c65",
+      "sha256": "c18401b0d7bb2de5cc3bb5e58871da8588f44be12c67c6de7ccb4d2465774806",
       "status": "stable",
       "audience": [
         "public"
@@ -137,7 +137,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/08-prayers-salat.md",
-      "sha256": "06ec03b6ff16e1ca0f08f7f55ee8566e141106990b89b2f268d77168efd8fbad",
+      "sha256": "06faa1722aa1736c23727134d9d712f29eb35e60ae4bae03c67097a6098d7e22",
       "status": "stable",
       "audience": [
         "public"
@@ -148,7 +148,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/09-times-of-the-prayers.md",
-      "sha256": "217d77f2d22a68ae5924f1a57035824d7fd21e35d9103be529a58ad35985ce67",
+      "sha256": "ebd0a105a8a0409d6d05ee0891caf92b7fad9edd85fec83af12f1b70fca36455",
       "status": "stable",
       "audience": [
         "public"
@@ -159,7 +159,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/10-call-to-prayers-adhaan.md",
-      "sha256": "d67802e07b6ddf4e1366a8b65ed15ba3f3f5aec3b2d2414c93db31027f9ee022",
+      "sha256": "cdf8c3d3f2b1b80c3e3ca425edaf4ce4e5b06d4b87cb29180b79325ef6ec8fce",
       "status": "stable",
       "audience": [
         "public"
@@ -170,7 +170,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/11-friday-prayer.md",
-      "sha256": "f975968b261b4889635824d99d280cef56c522ea3683b499b269f2b8b5c65f63",
+      "sha256": "3fa45f845663f6c3ec9e2401ee149b657e178403083d32edc44915de3323a049",
       "status": "stable",
       "audience": [
         "public"
@@ -181,7 +181,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/12-fear-prayer.md",
-      "sha256": "5c014af0948fc828f8f6787a8a04c1c75d99ea38522d206b7acdad1877f37196",
+      "sha256": "2388cee746445f78f3242ca2580c47c323443ad4e5dd510e24e4422786d4f820",
       "status": "stable",
       "audience": [
         "public"
@@ -192,7 +192,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/13-the-two-festivals-eids.md",
-      "sha256": "9b1d395d232d0e0c1db35130838999a24fe0e903e0ea8044056a2a03b1a55919",
+      "sha256": "0e54d62db292c24bfad45700c72400193ff5688be4e4c13463da42499b244265",
       "status": "stable",
       "audience": [
         "public"
@@ -203,7 +203,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/14-witr-prayer.md",
-      "sha256": "d1e00b9f513102ed3f92e01c7791e21f17bdd54e58e92ef9bd1b6e9ecc99af34",
+      "sha256": "b4e1e41eb854c5828222e3f1fb338756eb742c380c5584a734ea3e04ee03bb59",
       "status": "stable",
       "audience": [
         "public"
@@ -214,7 +214,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/15-invoking-allah-for-rain-istisqaa.md",
-      "sha256": "ce74fcf69ffa1782ada89361479d8d304e68323b13ca16ef7469468aad32d8f2",
+      "sha256": "f926adff6eafc778a22548dc91ed187d163cf3ffc3df5c01f59ae65502ec04c3",
       "status": "stable",
       "audience": [
         "public"
@@ -225,7 +225,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/16-eclipses.md",
-      "sha256": "f7f8a6e202c38ea5a9f70f0ae071f60b301d34575fa611f6333e7133f318d785",
+      "sha256": "07f347e95f1c247dedaaa97aee10bea6fc55378232ff6b5ea9b76cf9242cf6b5",
       "status": "stable",
       "audience": [
         "public"
@@ -236,7 +236,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/17-prostration-during-recital-of-quran.md",
-      "sha256": "637ca1d756722e0ed703ea9cdd4ee36dc0c5a775624d200d23d864651c467611",
+      "sha256": "5df26cda145d6ac1478b74941765d7c81acb78661451a50964a0517ec61ba5f8",
       "status": "stable",
       "audience": [
         "public"
@@ -247,7 +247,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/18-shortening-the-prayers-at-taqseer.md",
-      "sha256": "dd2e227ec68a8ee6b8faceaeb7cad7f42ed10a0e987289171181c469b020e9c0",
+      "sha256": "aa3eebad4236268561ee4831a2492e9109fa707d491fe5d675101224f37b9702",
       "status": "stable",
       "audience": [
         "public"
@@ -258,7 +258,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/19-prayer-at-night-tahajjud.md",
-      "sha256": "e17b50465b067fc8425ebfcec0db756e9f86ef8d011e13cb68d5093bf1555c5d",
+      "sha256": "860598ad1f27af4ffdd5148d56cb770df84ee25aff2d1f9ee61499d2eefa7c61",
       "status": "stable",
       "audience": [
         "public"
@@ -269,7 +269,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/20-virtues-of-prayer-at-masjid-makkah-and-madinah.md",
-      "sha256": "fd53fb4e7db18d9e282dd71d8cfea76832b9c45bc9c7eaff6eb488bef54c5c4e",
+      "sha256": "68008212c9c638dfdfacb785812b5427d97bd2c3a0b1e241b0dc414c7a72d646",
       "status": "stable",
       "audience": [
         "public"
@@ -280,7 +280,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/21-actions-while-praying.md",
-      "sha256": "ce995d7a57210ffce8c72cf98cc8b50b7bac4ce703ba5da76a7a481c13dfc825",
+      "sha256": "6f522b182eed92e33fec2f7d5f5d782720ea567216e6a34cf2501c820f067c77",
       "status": "stable",
       "audience": [
         "public"
@@ -291,7 +291,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/22-forgetfulness-in-prayer.md",
-      "sha256": "6689071cb75626acbc7aeb9d827930de8c58653563d29845f6f96b5279621c20",
+      "sha256": "7c021f7969d496763e0edf79c8e14a430b7132c83ae54c357d8616cc3cb0a34a",
       "status": "stable",
       "audience": [
         "public"
@@ -302,7 +302,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/23-funerals-al-janaaiz.md",
-      "sha256": "fe47543fc8ec3d9e5e78e307cce20cd3c397f0e1efcfed00ab4e40652a4f71c9",
+      "sha256": "1f24020f69cbfd0a5e8a7b0b2458d3ee66c556b92e8bad25cb1e7bd39c77af6a",
       "status": "stable",
       "audience": [
         "public"
@@ -313,7 +313,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/24-obligatory-charity-tax-zakat.md",
-      "sha256": "d098efb4407de83514039552514b21f1230358ab7eaff6f4e23fdc113833edca",
+      "sha256": "9d1726aa34e9e2d29e7323ac284ea61c2acd0e2737447a24f7f09dbdd906e84e",
       "status": "stable",
       "audience": [
         "public"
@@ -324,7 +324,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/25-hajj-pilgrimage.md",
-      "sha256": "40bb043eb12c6ddfcf68d32158d2342842d5ad75a5afc5413b83db7fb7fa472e",
+      "sha256": "b9ade738821ef91672b3e45e4d6e9bca87ba070771102d7284ed60b6f8bd2cf4",
       "status": "stable",
       "audience": [
         "public"
@@ -335,7 +335,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/26-umrah-minor-pilgrimage.md",
-      "sha256": "fd2879395e32748abc723d0a9c1f8978a9b00dfb9847c2a7e9630bd3486d44cd",
+      "sha256": "677be0a1820722f6ee22db848b0ce23d4e5e11a431232d6e5188c38145a7ad42",
       "status": "stable",
       "audience": [
         "public"
@@ -346,7 +346,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/27-pilgrims-prevented-from-completing-the-pilgrimage.md",
-      "sha256": "a9ac2a8d250586f1ce50434e9b690cc8fad40fa0129df0eb19a5b431d9db7840",
+      "sha256": "1005a8a6ba307d9c2b942352175c1eac84690ad747db87f0a6fda4737f9fc16f",
       "status": "stable",
       "audience": [
         "public"
@@ -357,7 +357,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/28-penalty-of-hunting-while-on-pilgrimage.md",
-      "sha256": "1bad99523eac49c4b3af0ed6c7de7fcd76a597415b45bc24370c49d51dc927d9",
+      "sha256": "89a25ec6ad461b4abf31caa35bd4fac214e4e4aa36f4bab8f8f4bd313c8d6ac3",
       "status": "stable",
       "audience": [
         "public"
@@ -368,7 +368,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/29-virtues-of-madinah.md",
-      "sha256": "a035fe34e73c170478d1804db1f3660e3aef295b120ae2742eeb29597602bfec",
+      "sha256": "7195a57050e6db97cada179385486b266113e833a57698047b5bfdc46ae565ca",
       "status": "stable",
       "audience": [
         "public"
@@ -379,7 +379,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/30-fasting.md",
-      "sha256": "3e9ff6d232137a6ce261213ab45867d20713ce9e4c821798cf5c768852c6a213",
+      "sha256": "3e7bb5557c941cc72960fdc432e4ac8cb723b6aa863870f024b732d289dce0cf",
       "status": "stable",
       "audience": [
         "public"
@@ -390,7 +390,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/31-praying-at-night-in-ramadaan-taraweeh.md",
-      "sha256": "f7bec8dc6121fcebcdbb66bff07c36f8eb1ab0ff5cc6dfbb284003ccd98163b9",
+      "sha256": "0d5b626d2dfe8f0766c2de6425cd1ea3c3a43302409c333b5cc3919368de6ac5",
       "status": "stable",
       "audience": [
         "public"
@@ -401,7 +401,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/32-virtues-of-the-night-of-qadr.md",
-      "sha256": "260e5cbd80156c2e69f113983874e282f8a1e550e0b328cd6ccba04f83af70a8",
+      "sha256": "0b76fab0cfd82ca56d4fbdfa13768011a8b00809f843e163cb7dc9ae940bf69a",
       "status": "stable",
       "audience": [
         "public"
@@ -412,7 +412,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/33-retiring-to-a-mosque-for-remembrance-of-allah-itikaf.md",
-      "sha256": "b3aad97a50020beff530c0ae03d3f52b30a859ef8b975162ec3065b3bd29d87b",
+      "sha256": "09521153e096d1c8861bdf0483e923b9a6b510cde161bf67e03d7abe358e9ab7",
       "status": "stable",
       "audience": [
         "public"
@@ -423,7 +423,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/34-sales-and-trade.md",
-      "sha256": "2bea6d95ac35c5a6a57a37fb415cbd11aef2b13905cc58cf604c0a78bc5542bf",
+      "sha256": "1872228722b0e44330b9e64792b9fb8be5db98f069096f0e2df2884ee03951c6",
       "status": "stable",
       "audience": [
         "public"
@@ -434,7 +434,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/35-sales-in-which-a-price-is-paid-for-goods-to-be-delivered-later-as-salam.md",
-      "sha256": "7da8902f01ac743f82ee222b0cb82158bcd008832e672e87f7a506599d58512a",
+      "sha256": "70dc2cc97cf92dc872059ecb7bbb40762c2995f7ce4cdb08e4501bb58458b097",
       "status": "stable",
       "audience": [
         "public"
@@ -445,7 +445,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/36-shufa.md",
-      "sha256": "cbe5d5fab5d98b70f5d51c145f9664227a2a5f47e9fec51747cef597aa26e744",
+      "sha256": "0c2fcd1a8924cf24d87cdd50998f014ab069bc614c190650218d0f31aecf2aaf",
       "status": "stable",
       "audience": [
         "public"
@@ -456,7 +456,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/37-hiring.md",
-      "sha256": "e8d3b0c59b12e7162354d532abdc73345c52ed847de5e083716aa15fd9318665",
+      "sha256": "b4011ee5ee7100f8f3f17ce3c0be7b56043c7eceaf868413d073f11abcf403fb",
       "status": "stable",
       "audience": [
         "public"
@@ -467,7 +467,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/38-transferance-of-a-debt-from-one-person-to-another-al-hawaala.md",
-      "sha256": "15a5476f6e98fff66bb13ce930b261b00ab9bc1a3699bc5abeaa80b54e6bf849",
+      "sha256": "3f2a9d16615db655c740106b651bc6aa8e0537582fd0bac456458959e8f8cbb1",
       "status": "stable",
       "audience": [
         "public"
@@ -478,7 +478,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/39-kafalah.md",
-      "sha256": "767513626ff995c88eb41a36901b73990f3e2cc0407322fc897520699c725a02",
+      "sha256": "8c072c896c5487b918da06a24f65a322fea696957c286f569412677a3c5dd701",
       "status": "stable",
       "audience": [
         "public"
@@ -489,7 +489,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/40-representation-authorization-business-by-proxy.md",
-      "sha256": "13a7036f0074f59c2b3ba9363d65d9b6133cac89e3475f8f09345faaee843842",
+      "sha256": "f8af9d9fa64561663c39519a97c0e7596807a727ea7e319df5d1197fc04160f0",
       "status": "stable",
       "audience": [
         "public"
@@ -500,7 +500,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/41-agriculture.md",
-      "sha256": "7cd52ca1faae75e1ef9f2c61ec4b4dd2c882cdaf7f165a3f49a723d9fde42b56",
+      "sha256": "7eb73c3773170869123fbaa0a065ceae24fadb719150ec6bd93e2a607418f7ff",
       "status": "stable",
       "audience": [
         "public"
@@ -511,7 +511,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/42-distribution-of-water.md",
-      "sha256": "06c0b6097a85a7fe5db3c60bd1ef8c71af452b4b0187275815191d895fe16c4b",
+      "sha256": "5a0303a573d25024293c89e53869c99854b1406b42d3018c5f568d4ccf287f3e",
       "status": "stable",
       "audience": [
         "public"
@@ -522,7 +522,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/43-loans-payment-of-loans-freezing-of-property-bankruptcy.md",
-      "sha256": "36bea545ec65876fd2e62cd85cd0d8ac9a232b49e05d95303fb4687d38965298",
+      "sha256": "c3419c79d6d4700fa0d465ad85821f10a7c30751a8c91e37c8f3f7e23d802678",
       "status": "stable",
       "audience": [
         "public"
@@ -533,7 +533,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/44-khusoomaat.md",
-      "sha256": "8f4deedec35f4b045c226115a3f05090d25694f4c03663082790c5fb42352f97",
+      "sha256": "0aa6b9b87c13f6eff371173c654362bd7bb8f36a8d7774942a17895a5fedf95b",
       "status": "stable",
       "audience": [
         "public"
@@ -544,7 +544,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/45-lost-things-picked-up-by-someone-luqatah.md",
-      "sha256": "f73d51f1f998ee7f698216ba03f7b38f4432dd834ad5e350c2d9a352cbcbf1f3",
+      "sha256": "ce7607bbda9e490e1cd1f2d03d07554c80b93d1484876a896be962d959f6d38a",
       "status": "stable",
       "audience": [
         "public"
@@ -555,7 +555,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/46-oppressions.md",
-      "sha256": "a4f29ce4041a074de422a732002b2b1c7f5db32236bcbf0570e7ecc9e3c373b4",
+      "sha256": "ad6ededb4663789320d96f30bf137c0c6cb7c425e53347d66526c3bca1b19d13",
       "status": "stable",
       "audience": [
         "public"
@@ -566,7 +566,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/47-partnership.md",
-      "sha256": "cb2b150a16e21f8f73e7775048d0c643d0e6952646e4f40c548164ce2b63ba71",
+      "sha256": "1d1f5978de60f6db2d4d54934d38f227eea53bdc1b0b11c125c81b8543d83c58",
       "status": "stable",
       "audience": [
         "public"
@@ -577,7 +577,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/48-mortgaging.md",
-      "sha256": "7fcd484b2ee54ab917f48f86b4faa7f227de5e3a46527ce0c388997830b98365",
+      "sha256": "44d0244b5ac3a8946c0c56ddf85da6b0c164baec1e607ec807fb31463da5455b",
       "status": "stable",
       "audience": [
         "public"
@@ -588,7 +588,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/49-manumission-of-slaves.md",
-      "sha256": "cd6c22d8af519b8452ce4baff3538f2949edaab2d06ef82552d0f0a32ff3c3d5",
+      "sha256": "444bdccadede022b2b28a8e04a0b538287c3eecb507d5ea6cafe66318bd4b3d6",
       "status": "stable",
       "audience": [
         "public"
@@ -599,7 +599,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/50-makaatib.md",
-      "sha256": "f3fe3d522c827149f7b225ff4e9a6576b17dbb075b2f279fdb4a022ac434133a",
+      "sha256": "26b211164270ab38d6406fc5e2cb9003fdad3843669011950d1e5996daccf370",
       "status": "stable",
       "audience": [
         "public"
@@ -610,7 +610,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/51-gifts.md",
-      "sha256": "c12b7095a5b5a8758af72fa34fa1ce6747430849ce41e7d7179668aaa54226ee",
+      "sha256": "0fbfe2600c107de4dc7510e208357a42a7d132de5a57a4cdd90168104d12ba02",
       "status": "stable",
       "audience": [
         "public"
@@ -621,7 +621,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/52-witnesses.md",
-      "sha256": "0fa4b401af07a5d64a8730d267832439f0cc4d11b8c1f32f0089166c70c98d43",
+      "sha256": "dcfaf35656fec862a547717f18b3e22cafd0dbdb6aea347268b4d1cc28374c8a",
       "status": "stable",
       "audience": [
         "public"
@@ -632,7 +632,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/53-peacemaking.md",
-      "sha256": "7e16a4d1ca282d1f6d0f9ac40596dbbb6c2ab9b2c387722aabddeb891d8fc199",
+      "sha256": "29da165040c9d8a0d4e0174a05891d2e0e108facae4b4d132cf4fa73ad681c8f",
       "status": "stable",
       "audience": [
         "public"
@@ -643,7 +643,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/54-conditions.md",
-      "sha256": "9eb02d4c13b8e827703d1b26eeee97e6b7041e8f918d6e48b264d1d33f9b6c8b",
+      "sha256": "a22d8e6a0c56136de7ca215c0aee4dc5ffcad409cd2d3977fcf4dc8f9d4ae8a1",
       "status": "stable",
       "audience": [
         "public"
@@ -654,7 +654,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/55-wills-and-testaments-wasaayaa.md",
-      "sha256": "612743cf35085cbe10d48c6d2b87ad3fb50165aa2f87ab6929ad81112fc2c843",
+      "sha256": "0efcd088b47cccd8b1c264c454698f277055e79581660b1758bb612cbaff654f",
       "status": "stable",
       "audience": [
         "public"
@@ -665,7 +665,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/56-fighting-for-the-cause-of-allah-jihaad.md",
-      "sha256": "a8113fa5f2183e86e49ec87a0d12c7d445017907d176325445cd91fe98268282",
+      "sha256": "6175dfb9b8b4cc42f14db23eb1c6dd7fcaffe2d1b9ad1b2a35619349827f74e2",
       "status": "stable",
       "audience": [
         "public"
@@ -676,7 +676,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/57-one-fifth-of-booty-to-the-cause-of-allah-khumus.md",
-      "sha256": "2662525d710632f6e4e4e2ec6145c01a1b9ad84f6b2b00f61cc42e7ddc046b20",
+      "sha256": "69a2bfde4f4f3456c928588fdcaa6cb804f0f952f7385f8e9e48d8ab07414998",
       "status": "stable",
       "audience": [
         "public"
@@ -687,7 +687,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/58-jizyah-and-mawaadaah.md",
-      "sha256": "a16b7a7b3fbeaa36d7a1d3a7f2ccb0798643ac580ad67f59ea3b4acb7f7d25cf",
+      "sha256": "677aafb3023b3b9df57d5d92c070b5c3cc58a7da41262ba23e88d06301e1f9c7",
       "status": "stable",
       "audience": [
         "public"
@@ -698,7 +698,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/59-beginning-of-creation.md",
-      "sha256": "8dc89720c864d4334df284c302def5d0c27bcfc3edcf433a914389695d6778c3",
+      "sha256": "d8d75aadbd4f59ab4ba8bac4bd7d8d61f9610e8200eedd20690fd1dac251365a",
       "status": "stable",
       "audience": [
         "public"
@@ -709,7 +709,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/60-prophets.md",
-      "sha256": "c061146e0f7064c8cf094c856e8b12977ca734772eaafc5a0675ded712d52a28",
+      "sha256": "c1da2236a866442743cc765ab2d7833e2ea2dfe67c966e05985b061c4d2bbe95",
       "status": "stable",
       "audience": [
         "public"
@@ -720,7 +720,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/61-virtues-and-merits-of-the-prophet-pbuh-and-his-companions.md",
-      "sha256": "2ba196679a7aa29b5545df0e344d96262088c38251c6a99e8f89715b05a21d2e",
+      "sha256": "6f8e0ea89e0cd60abd78c0a9ae95881ed70e64665343bce97cbb98d59a450d19",
       "status": "stable",
       "audience": [
         "public"
@@ -731,7 +731,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/62-companions-of-the-prophet.md",
-      "sha256": "9fea977049a9957fe3c1d0f3d8e65e4b0ca7b29409b7cdf1ec12d3847aa610fe",
+      "sha256": "9685b38273e871f4908f927e2cd9dfe3724f38093add3874310ec5bcb4830420",
       "status": "stable",
       "audience": [
         "public"
@@ -742,7 +742,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/63-merits-of-the-helpers-in-madinah-ansaar.md",
-      "sha256": "ce063ecce24b59320661ea27d6e764b87789623197f5df0d9153632825ced83c",
+      "sha256": "0d8a8cae44b39308bc992928a476f5f51fceaa5e2db080390eceed479b48c005",
       "status": "stable",
       "audience": [
         "public"
@@ -753,7 +753,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/64-military-expeditions-led-by-the-prophet-pbuh-al-maghaazi.md",
-      "sha256": "cdfead7f2b4496e3caafe4b19a32bc7852483e105d08c2363413f966b4f35d1f",
+      "sha256": "3aad2c82d3f9195af57dcdb9e2189c1c17773a9767b66e05e434584abc4cea1b",
       "status": "stable",
       "audience": [
         "public"
@@ -764,7 +764,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/65-prophetic-commentary-on-the-quran-tafseer-of-the-prophet-pbuh.md",
-      "sha256": "b1b81618777020e7e55c7d794d6fb81b8bea88ba2602a47c32eab412ad264302",
+      "sha256": "9c3905252ed041b4be95640380c264065ca2ac48bc722981dc9fa1dc652b0334",
       "status": "stable",
       "audience": [
         "public"
@@ -775,7 +775,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/66-virtues-of-the-quran.md",
-      "sha256": "63e794229e9fda363bac7bad93242125773e9dbfbfd60fd472378030efc18863",
+      "sha256": "fe6a8b162a467e462195ba2ca8cce032677dc4c9ca73f7764024db1c85583c0c",
       "status": "stable",
       "audience": [
         "public"
@@ -786,7 +786,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/67-wedlock-marriage-nikaah.md",
-      "sha256": "1ab6e714bdfcd6ff5de967c584f12549f37205ea95c2cc9315d4501d5cfb1849",
+      "sha256": "89e0381b51c6df0549783187ee53455387eb6ce315aae538e2d9b59a995f0cf0",
       "status": "stable",
       "audience": [
         "public"
@@ -797,7 +797,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/68-divorce.md",
-      "sha256": "a1c437383fdab9b3a62dcfbfa7426c07f76dbd27c2b58b39aaad341bbd740788",
+      "sha256": "42f478a81bdb614b9579e723175dd4f0832aa215fba445e43aac9fa56b9ef36d",
       "status": "stable",
       "audience": [
         "public"
@@ -808,7 +808,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/69-supporting-the-family.md",
-      "sha256": "83452ef5d458e5c82ab8ed9d3fd7052f787c932838e8103b9ab64c646fa8d3d4",
+      "sha256": "07c225a3f532b14f80a62824b733c5d3aa4989194f7d19610cf1834216e0bb5c",
       "status": "stable",
       "audience": [
         "public"
@@ -819,7 +819,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/70-food-meals.md",
-      "sha256": "070b1c63e4b7ee08511f8d766d554171ff2a4375400a7b95135dab7227d93ddc",
+      "sha256": "d7a0d48899db36b059df02111f7aa8b62d27e9dbfb32eab7324cce50495237c6",
       "status": "stable",
       "audience": [
         "public"
@@ -830,7 +830,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/71-sacrifice-on-occasion-of-birth-aqiqa.md",
-      "sha256": "d8ecc80820ce2c672f364c92f3224035f06270a9d166e108922edeeb716fd71c",
+      "sha256": "682f98074832ac476a5d26c8925357ebd9811d6d3ef035a84aa4a61037f29219",
       "status": "stable",
       "audience": [
         "public"
@@ -841,7 +841,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/72-hunting-slaughtering.md",
-      "sha256": "258212281a3acc95d9e397da10c78f40f911319b9f0dcf05803db47575769d2e",
+      "sha256": "24033e39bd59647f3912edfbdc60cdcc0a1d14645ffced2ae14db131a5704497",
       "status": "stable",
       "audience": [
         "public"
@@ -852,7 +852,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/73-al-adha-festival-sacrifice-adaahi.md",
-      "sha256": "fb9561736132e5d41fde4418003b6024e5b5f55f8604b882d2400881731cc1cb",
+      "sha256": "d10de033ba37573c799b353d0ed0904bd51857a9bdc44841f4173491c9d0d231",
       "status": "stable",
       "audience": [
         "public"
@@ -863,7 +863,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/74-drinks.md",
-      "sha256": "d3857553e36e17ba1c3b2e931c981309f7202f7b806e80074e85a344fbd76296",
+      "sha256": "b787ad616bad24ee5c5f8e193924013f7d0c8805bff47ed50f8c40c79b76d51f",
       "status": "stable",
       "audience": [
         "public"
@@ -874,7 +874,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/75-patients.md",
-      "sha256": "64440b2db609b37d5272aef5a03eed57771db0b0b160e5dbe330f3f26986fd80",
+      "sha256": "5547ddfa02625fdc6e7688d714156e3a5bd5b43e433a6f636d88918d24bfe676",
       "status": "stable",
       "audience": [
         "public"
@@ -885,7 +885,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/76-medicine.md",
-      "sha256": "30f61249bc9036a1b5f81fb13e033108294b99b329b8e0d5cbf6dfbe193d4ee2",
+      "sha256": "28271d123e325b7220dc3805fe7a1cc00537486ce7ba7710f65f72b98da9d48c",
       "status": "stable",
       "audience": [
         "public"
@@ -896,7 +896,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/77-dress.md",
-      "sha256": "502e6081cbd8ca18f09c8b3d6f2622660e6cacf1fd65a71021eb3cc5c1e6643a",
+      "sha256": "e7d1778417aa6f43878c2af0c8c8483ffd0ee4997bc381cb019923353e870033",
       "status": "stable",
       "audience": [
         "public"
@@ -907,7 +907,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/78-good-manners-and-form-al-adab.md",
-      "sha256": "362d6dc670150ba8e64f6844dc8d0c522af8e3b01fe4620275c15c7cdc5998a9",
+      "sha256": "862510de61dd5cf4f312a31942f4b6e05f9beb443d99b6c3ffacb04daa39e33f",
       "status": "stable",
       "audience": [
         "public"
@@ -918,7 +918,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/79-asking-permission.md",
-      "sha256": "2753a22947b39f1fd0bc2acc4558c5d3ee8f48537326b5e57a05f08f4e6521d4",
+      "sha256": "a52033d2cf69e192fb8c950ff9d0d96844caeb24a4d4c4eea9c170c5b97b1f95",
       "status": "stable",
       "audience": [
         "public"
@@ -929,7 +929,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/80-invocations.md",
-      "sha256": "8826a13ad0ae374a45f619f4344945f328fcc1eb0c4742ff07b74c4c0974fb5a",
+      "sha256": "3ad63a5825c86485227970229bf787c9d221af866a563975e64fda206dbf9efb",
       "status": "stable",
       "audience": [
         "public"
@@ -940,7 +940,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/81-to-make-the-heart-tender-ar-riqaq.md",
-      "sha256": "753d9db05e2d3b19794f9573efa5bf9b51b7e7b0c06571758bb60e036e476a3a",
+      "sha256": "e61219c79282c5052d3233b0bfb17cd262a325fd94cf150566b051e70414350e",
       "status": "stable",
       "audience": [
         "public"
@@ -951,7 +951,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/82-divine-will-al-qadar.md",
-      "sha256": "1e0be74a64c7eaf8bfb38cb5fa5ff1afb904c3663e5cfb2fa627f0dbf3080a2f",
+      "sha256": "8f70364d0544e3e03c8ac5dedae506d75315e2d0a72b88eb8080f4035e849fd2",
       "status": "stable",
       "audience": [
         "public"
@@ -962,7 +962,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/83-oaths-and-vows.md",
-      "sha256": "22e87f1512afcbf247fed70f5b296b2c7bc9b236c20c207d3b56d502c0164615",
+      "sha256": "e34e2e9f5a961f2f8b5eda56c1ab07e73941607a473e7ad3f603a7ce7fa0f8bc",
       "status": "stable",
       "audience": [
         "public"
@@ -973,7 +973,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/84-expiation-for-unfulfilled-oaths.md",
-      "sha256": "a322e42a599a6714930806abd7502a23e0ca1e5920901a1ed2332673b66882b9",
+      "sha256": "0c66d4c3c25db9b841290d46dd93af78164272ddf6252ad97dcceee9188612af",
       "status": "stable",
       "audience": [
         "public"
@@ -984,7 +984,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/85-laws-of-inheritance-al-faraaid.md",
-      "sha256": "01f2c754749e2815ae754200e909286d21753764ee09afa3200cea795d6c9318",
+      "sha256": "8e1b98aa9cf87af333822e91fe211dabc02af259897fd0cf8c3a438ac9924f49",
       "status": "stable",
       "audience": [
         "public"
@@ -995,7 +995,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/86-limits-and-punishments-set-by-allah-hudood.md",
-      "sha256": "cde2835c5c52f314c8f0211753f32cbfe58d3e0f426f4743de5b6a8129a74232",
+      "sha256": "556e2dd4418e708afe3df36dab5016864551972c8076ead8d6d5a42f929ca805",
       "status": "stable",
       "audience": [
         "public"
@@ -1006,7 +1006,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/87-blood-money-ad-diyat.md",
-      "sha256": "f50024027a40048ad2a6f3adf3c6083eb14913725f5b9480043cd904e469a8a3",
+      "sha256": "51eeb9b1f5a3b9fdb66ba9791be856ae6263e12dd059aba8ffcbfd4087af2909",
       "status": "stable",
       "audience": [
         "public"
@@ -1017,7 +1017,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/88-apostates.md",
-      "sha256": "d13157224e9a8365a469de24bf9724ee3ac4b44c751c5fba44023b91e9ebdc62",
+      "sha256": "cb3842f812c65ba06c1ed95ff90c18899b26af717042bf259859f59875be22a9",
       "status": "stable",
       "audience": [
         "public"
@@ -1028,7 +1028,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/89-statements-made-under-coercion.md",
-      "sha256": "fd07405d9f424149bd63b8124f5bdd5da6a8b9bc8dc6a9eadc9876f47a666bd6",
+      "sha256": "4f6734df361cfb372bd6b3eee21a3c9aa62533ca75fe50511e0b41ed1a4840af",
       "status": "stable",
       "audience": [
         "public"
@@ -1039,7 +1039,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/90-tricks.md",
-      "sha256": "9aff168ef7f8cc492097c5615393dc2f781f96d5b6f2219a8344f46d713f22c1",
+      "sha256": "a169f2e5af6cfe32f988a4fcf8f22bd418e41d39bcc12351ad2d7041570e8bac",
       "status": "stable",
       "audience": [
         "public"
@@ -1050,7 +1050,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/91-interpretation-of-dreams.md",
-      "sha256": "94dbe7b9f900a3f7c01083236507adeabc17bbd86c831cfd761bdac756a38e93",
+      "sha256": "caeb361e11ce30a79260b2856f59da740f150ba9282c41cb785c9ea3ca356d96",
       "status": "stable",
       "audience": [
         "public"
@@ -1061,7 +1061,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/92-afflictions-and-the-end-of-the-world.md",
-      "sha256": "9bc7ba8c09ae9a3e40500a4c167fb7969b36252a4888e31b11d0d6ba11657b6c",
+      "sha256": "46a090bbc6e609dd7c68532f6d58409d3b88974a7d412bc5f410d2e787df5df3",
       "status": "stable",
       "audience": [
         "public"
@@ -1072,7 +1072,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/93-judgments-ahkaam.md",
-      "sha256": "4779947f505bd0f22284a72ee6987c102140ad880c274b807061d64daef69c83",
+      "sha256": "1f6c5b8a78d951866a4b763eebf49bab3a9e4c4c68aa404a122a765f16b82f84",
       "status": "stable",
       "audience": [
         "public"
@@ -1083,7 +1083,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/94-wishes.md",
-      "sha256": "9429bebdab10027b9de5ea9c585b8a85833dc45b178f47a6fd611015bbfeb69e",
+      "sha256": "c60b416c9ff4553b9a484b20ab21298b7c732d5ba275f909896e9d24c7cfb8ac",
       "status": "stable",
       "audience": [
         "public"
@@ -1094,7 +1094,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/95-accepting-information-given-by-a-truthful-person.md",
-      "sha256": "0f158418d52f0252ff035a2e59f0afa4bc515314cf5ebb44730fbd094c8b3b66",
+      "sha256": "607dd628045f10b60e88af5c07f03510421f0d040521d706e9d79d5cddc611a7",
       "status": "stable",
       "audience": [
         "public"
@@ -1105,7 +1105,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/96-holding-fast-to-the-quran-and-sunnah.md",
-      "sha256": "b57c32ea0093079e2bc2a99132cb2480789f4414cfb405c056d420555c45f3cd",
+      "sha256": "362e168f79ccfd5fcb8efe62f6a2ab74c8f9f887cf7f52325266c1477fe0619c",
       "status": "stable",
       "audience": [
         "public"
@@ -1116,7 +1116,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/97-oneness-uniqueness-of-allah-tawheed.md",
-      "sha256": "d09d0874b2409de26f405139380f822c0e04200624f7bfd5361fc123a54f474d",
+      "sha256": "9c9f441b9aac87fb8d997631a314477826e8a5a012dbd33e68567aff8e035f4e",
       "status": "stable",
       "audience": [
         "public"
@@ -1127,7 +1127,7 @@
     },
     {
       "path": "hadith/sahih-bukhari/overview.md",
-      "sha256": "f10afadcdb325bec9e22ab7aaebbf3845ef0723311477611de60c4a8992a42c6",
+      "sha256": "1fa882236be1a86a953f0cb6d7e5bc777c6217b9f734bb9a8eb9f100fa9ba6d7",
       "status": "stable",
       "audience": [
         "public"
@@ -1218,17 +1218,17 @@
     },
     {
       "path": "hadith/sahih-bukhari/index.md",
-      "sha256": "9dd8b4f425a8a00fa42381fd9cc00d920f2320e173135c75ba86ce8aa7e2b88a"
+      "sha256": "6f9c8ab0bd7b46a054a494f079c7a476b02e12af09d5636c6281270ee8e180ad"
     },
     {
       "path": "index.md",
-      "sha256": "ffedf8d280d9dc43f6c21531b11027e3d25771b840bab7ff4713ed49e59d9752"
+      "sha256": "09ae2a1ec8d0622d1d1e6370ee197978e8acd0214c9ede7a8c6e9e0db1be80e2"
     }
   ],
   "bundles": [
     {
       "viewer": "public",
-      "sha256": "0ee8b7211f98e58eaefd408f9027eb45ccdd8bb750b3e14efb7f24cb77411a10",
+      "sha256": "56b442c13da18e9759a91973a8e36895cb03543360ba179e4f0d3ad0656b349c",
       "files": 113
     }
   ]

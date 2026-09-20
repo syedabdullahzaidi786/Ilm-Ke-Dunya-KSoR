@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 17: Prostration During Recital of Qur'an"
 description: "Hadiths from Sahih al-Bukhari, Book 17: Prostration During Recital of Qur'an. 13 hadiths."
 status: stable
-order: 17
+order: 117
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

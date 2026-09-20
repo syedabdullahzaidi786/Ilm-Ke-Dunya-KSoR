@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 79: Asking Permission"
 description: "Hadiths from Sahih al-Bukhari, Book 79: Asking Permission. 77 hadiths."
 status: stable
-order: 79
+order: 179
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

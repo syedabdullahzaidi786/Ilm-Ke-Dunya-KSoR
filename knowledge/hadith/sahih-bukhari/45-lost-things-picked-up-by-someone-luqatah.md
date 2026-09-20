@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 45: Lost Things Picked up by Someone (Luqatah)"
 description: "Hadiths from Sahih al-Bukhari, Book 45: Lost Things Picked up by Someone (Luqatah). 15 hadiths."
 status: stable
-order: 45
+order: 145
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

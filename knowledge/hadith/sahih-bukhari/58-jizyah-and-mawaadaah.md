@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 58: Jizyah and Mawaada'ah"
 description: "Hadiths from Sahih al-Bukhari, Book 58: Jizyah and Mawaada'ah. 33 hadiths."
 status: stable
-order: 58
+order: 158
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

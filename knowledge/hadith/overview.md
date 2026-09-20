@@ -3,7 +3,7 @@ type: Document
 title: Hadith Collections
 description: "Hadith collections available in the Ilm Ke Dunya knowledge base."
 status: stable
-order: 1
+order: 20
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

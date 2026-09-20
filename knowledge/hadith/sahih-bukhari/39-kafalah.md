@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 39: Kafalah"
 description: "Hadiths from Sahih al-Bukhari, Book 39: Kafalah. 9 hadiths."
 status: stable
-order: 39
+order: 139
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

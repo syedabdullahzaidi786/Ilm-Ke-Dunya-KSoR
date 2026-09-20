@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 81: To make the Heart Tender (Ar-Riqaq)"
 description: "Hadiths from Sahih al-Bukhari, Book 81: To make the Heart Tender (Ar-Riqaq). 182 hadiths."
 status: stable
-order: 81
+order: 181
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 83: Oaths and Vows"
 description: "Hadiths from Sahih al-Bukhari, Book 83: Oaths and Vows. 87 hadiths."
 status: stable
-order: 83
+order: 183
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

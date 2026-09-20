@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 10: Call to Prayers (Adhaan)"
 description: "Hadiths from Sahih al-Bukhari, Book 10: Call to Prayers (Adhaan). 275 hadiths."
 status: stable
-order: 10
+order: 110
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

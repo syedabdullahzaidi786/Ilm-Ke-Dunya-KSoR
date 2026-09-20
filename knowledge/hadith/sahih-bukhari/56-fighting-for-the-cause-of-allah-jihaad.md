@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 56: Fighting for the Cause of Allah (Jihaad)"
 description: "Hadiths from Sahih al-Bukhari, Book 56: Fighting for the Cause of Allah (Jihaad). 309 hadiths."
 status: stable
-order: 56
+order: 156
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

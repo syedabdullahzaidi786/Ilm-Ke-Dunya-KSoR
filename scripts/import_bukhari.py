@@ -404,7 +404,7 @@ def render_book_md(
     lines.append(f"title: {safe_title}")
     lines.append(f"description: {safe_desc}")
     lines.append("status: stable")
-    lines.append(f"order: {book_num}")
+    lines.append(f"order: {book_num + 100}")
     lines.append(f"generated:")
     lines.append(f"  by: {GENERATED_BY}")
     lines.append(f"  at: {generated_at}")
@@ -539,7 +539,7 @@ def render_collection_overview_md(
         'translation, structured as a KSoR knowledge base. 97 books, 7,563 hadiths."'
     )
     lines.append("status: stable")
-    lines.append("order: 1")
+    lines.append("order: 100")
     lines.append(f"generated:")
     lines.append(f"  by: {GENERATED_BY}")
     lines.append(f"  at: {generated_at}")
@@ -630,7 +630,7 @@ def render_hadith_collection_overview_md(generated_at: str) -> str:
         'description: "Hadith collections available in the Ilm Ke Dunya knowledge base."'
     )
     lines.append("status: stable")
-    lines.append("order: 1")
+    lines.append("order: 20")
     lines.append(f"generated:")
     lines.append(f"  by: {GENERATED_BY}")
     lines.append(f"  at: {generated_at}")

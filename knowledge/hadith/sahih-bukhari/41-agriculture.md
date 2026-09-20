@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 41: Agriculture"
 description: "Hadiths from Sahih al-Bukhari, Book 41: Agriculture. 31 hadiths."
 status: stable
-order: 41
+order: 141
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

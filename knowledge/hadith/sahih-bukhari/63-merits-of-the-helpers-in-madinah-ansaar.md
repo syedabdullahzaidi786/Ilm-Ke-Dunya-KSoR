@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 63: Merits of the Helpers in Madinah (Ansaar)"
 description: "Hadiths from Sahih al-Bukhari, Book 63: Merits of the Helpers in Madinah (Ansaar). 173 hadiths."
 status: stable
-order: 63
+order: 163
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

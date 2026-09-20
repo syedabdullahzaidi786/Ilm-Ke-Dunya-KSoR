@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 96: Holding Fast to the Qur'an and Sunnah"
 description: "Hadiths from Sahih al-Bukhari, Book 96: Holding Fast to the Qur'an and Sunnah. 103 hadiths."
 status: stable
-order: 96
+order: 196
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

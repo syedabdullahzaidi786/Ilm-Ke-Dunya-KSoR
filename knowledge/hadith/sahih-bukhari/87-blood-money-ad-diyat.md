@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 87: Blood Money (Ad-Diyat)"
 description: "Hadiths from Sahih al-Bukhari, Book 87: Blood Money (Ad-Diyat). 59 hadiths."
 status: stable
-order: 87
+order: 187
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

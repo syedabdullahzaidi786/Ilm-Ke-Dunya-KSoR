@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 53: Peacemaking"
 description: "Hadiths from Sahih al-Bukhari, Book 53: Peacemaking. 21 hadiths."
 status: stable
-order: 53
+order: 153
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z

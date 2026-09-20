@@ -3,7 +3,7 @@ type: Document
 title: "Sahih al-Bukhari — Book 92: Afflictions and the End of the World"
 description: "Hadiths from Sahih al-Bukhari, Book 92: Afflictions and the End of the World. 89 hadiths."
 status: stable
-order: 92
+order: 192
 generated:
   by: process:import_bukhari
   at: 2026-09-20T18:51:57Z
