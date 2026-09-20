@@ -52,7 +52,7 @@ export default function buildGateway(ctx: ServiceContext, version: string): McpS
         {
           // system/site/app/icon.png — 1208x1208 RGBA, copied to out/icon.png by the
           // Next.js build and served at the site root by the Vercel "site" service.
-          src: "https://ilm-ke-dunya-ksor.vercel.app/icon.png",
+          src: "https://ilm-ke-dunya-ksor.vercel.app/logo.png",
           mimeType: "image/png",
           sizes: ["1208x1208"],
         },
